@@ -15,6 +15,10 @@ export class ${convertToCamelCase(name)} {
     // DI
     private readonly _destroyRef: DestroyRef = inject(DestroyRef);
 
+    // INPUTS
+    
+	  // OUTPUTS
+
     // STATIC INFO
 
     // FORM && CONTROLS
